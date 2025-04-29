@@ -1,4 +1,4 @@
-# NYC MTA Predictive Insights - Airflow Orchestration
+# NYC MTA Predictive Insights
 
 This directory contains the setup used for orchestrating the data pipelines within the NYC MTA Predictive Insights and Forecasting Dashboard project.
 
